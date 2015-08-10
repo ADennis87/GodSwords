@@ -1,0 +1,16 @@
+[
+{
+  "modid": "godswords",
+  "name": "God Swords Mod",
+  "description": "Craft incredible swords with amazing effects!",
+  "version": "1.2",
+  "mcversion": "1.8",
+  "url": "http://www.minecraftforum.net/topic/2326148-164god-swords/",
+  "updateUrl": "",
+  "authorList": ["Ninjapancakes87", "Pomarf"],
+  "credits": "Pomarf for idea concept",
+  "logoFile": "banner.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
